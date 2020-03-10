@@ -1,5 +1,3 @@
-
-
 from datetime import *
 from colorama import init #для стиля ветового
 from colorama import Fore, Back, Style #для стиля ветового
