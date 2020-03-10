@@ -35,7 +35,7 @@ def write_file():
         file.write("!" + "*" + ". " + info + ".\n")
         file = open(filename, "r")
 
-        print(Fore.BLUE)
+        print(Fore.YELLOW)
         print(file.read()) #Выводим инфо с файла в консоль!!!
 
     else:
